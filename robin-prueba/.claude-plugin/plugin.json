@@ -1,0 +1,7 @@
+{
+  "name": "robin-prueba",
+  "version": "0.0.1",
+  "description": "Prueba interna de RobinLawyer.ai. No instalar.",
+  "author": { "name": "Robin Lawyer", "url": "https://robinlawyer.ai", "email": "hola@robinlawyer.ai" },
+  "license": "Proprietary"
+}

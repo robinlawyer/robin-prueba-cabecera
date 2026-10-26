@@ -1,0 +1,8 @@
+{
+  "name": "robin-prueba-cabecera",
+  "description": "Prueba interna de RobinLawyer.ai (no instalar): comprueba qué parte de la conexión del plugin llega al servidor desde Cowork.",
+  "owner": { "name": "Robin Lawyer", "url": "https://robinlawyer.ai", "email": "hola@robinlawyer.ai" },
+  "plugins": [
+    { "name": "robin-prueba", "source": "./robin-prueba", "description": "Prueba interna de RobinLawyer.ai. No instalar." }
+  ]
+}
