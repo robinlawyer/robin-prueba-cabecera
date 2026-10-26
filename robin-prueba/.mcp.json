@@ -4,7 +4,7 @@
       "type": "streamable-http",
       "url": "https://api.robinlawyer.ai/mcp?robin_plugin=0.0.2",
       "headers": {
-        "X-Robin-Plugin-Version": "0.0.1"
+        "X-Robin-Plugin-Version": "0.0.3"
       }
     }
   }
